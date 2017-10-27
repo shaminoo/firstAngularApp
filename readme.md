@@ -5,3 +5,4 @@
 # 3. Hook them up with ng route and replce ng controller with ng view, now ng view controls that part that was previously 
 # controlled by controller
 # 4. set routes from main page and back to main page
+# 5. Partials with or without params, use of $routeProvider
